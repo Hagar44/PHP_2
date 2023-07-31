@@ -1,0 +1,3 @@
+Mai:Hassan:123654:54 M st:Egypt:Female:PHP, MySQL:::mmm:CS
+Ahmed:Mohamed:15987:15 M st:Egypt:Male:PHP, J23E, MySQL:::AAA:IS
+Mai:Hassan:5555:54 M st:Egypt:Female:PHP, J23E::MMM:CS
